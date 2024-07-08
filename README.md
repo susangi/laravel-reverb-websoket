@@ -1,4 +1,5 @@
 ## Broadcasting (Laravel Websoket)
+Broadcasting private channel with single and multiple event listien with vue js
 
 ## Installation
 
